@@ -4,5 +4,5 @@
 :computer: I'm currently studying to become a front-end developer
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martemoslet&layout=compact&theme=swift)](https://github.com/martemoslet/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martemoslet&layout=compact&theme=nightowl)](https://github.com/martemoslet/github-readme-stats)
 
